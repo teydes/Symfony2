@@ -1,1 +1,1 @@
-# Symfony2
+comment optimiser et automatiser le front-end dans un projet Symfony2
